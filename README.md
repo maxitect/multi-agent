@@ -120,3 +120,7 @@
 - Add intelligent routing between agents
 - Implement more sophisticated error handling
 - Create a central MCP gateway for workflow management
+
+## Credits
+
+All specification templates in `templates/` folder are based on [jam01's work](https://github.com/jam01/SRS-Template) and [rick4470's work](https://github.com/rick4470/IEEE-SRS-Tempate), both based on IEEE 830.
